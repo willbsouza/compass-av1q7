@@ -4,7 +4,7 @@
 <ul>
 	<li>Quiz - Perguntas e Respostas</li>
 	<li>Sistema considera a primeira letra da resposta fornecida</li>
-	<li>Independe de caracter maiúscula ou minúsculo</li>
+	<li>Independe de caracter maiúsculo ou minúsculo</li>
 	<li>Repete a questão até que o primeiro caracter seja válido</li>
 	<li>Contabiliza erros e acertos e exibe ao final>
 </ul>
